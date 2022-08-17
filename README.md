@@ -30,23 +30,17 @@ So I tried to clone youtube as far as possible.
 
 **Home Page**
 
-![Home Page](https://user-images.githubusercontent.com/101566046/167378276-5991087a-472b-47ff-ac0b-d47a1de0523a.png)
+![Homepage](https://user-images.githubusercontent.com/101567722/185149083-28f1af89-6416-4e5c-87d5-5b9c05b61939.png)
 
 
-**Category DropDown**
+**Searched Videos**
 
-![Category dropdown](https://user-images.githubusercontent.com/101566046/167378359-47c02efc-eabc-42af-adf7-589658bf4bbd.png)
-
-
-**Footer**
-
-![Footer](https://user-images.githubusercontent.com/101566046/167379827-c5541770-27ab-45ab-9d1f-e3f22c1d03d7.png)
+![Searched page](https://user-images.githubusercontent.com/101567722/185149594-2eec71a5-17a0-4020-8eae-e492404cc04c.png)
 
 
-**Login/Signup**
+**Played Video**
 
-![Login/Signup](https://user-images.githubusercontent.com/101566046/167379040-80b4ee4e-29fe-4e61-88f7-ed2162d7609a.png)
-
+![video played](https://user-images.githubusercontent.com/101567722/185149679-047f65b8-67cf-4fdf-862b-9d4a230ccfc7.png)
 
 
 ## Learning :-
