@@ -50,3 +50,4 @@ So I tried to clone youtube as far as possible.
 - I learn about many CSS properties that I didn't know before.
 
 - My skills in JavaScript and DOM manipulation became better.
+
