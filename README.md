@@ -7,7 +7,6 @@ As we all are familiar with youtube which is installed in every mobile and every
 So I tried to clone youtube as far as possible.
 
 
-
  🚀 The link for the same is here : https://youtubeclonedapp.netlify.app/
  
 
