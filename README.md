@@ -3,8 +3,7 @@ Hi World !🌏
 I am student of Masai School from Web17 batch and I am presenting our project- clone of Youtube, built during Unit-3.
 
 # Details : 🔭
-As we all are familiar with youtube which is installed in every mobile and every person used it for different purpose like educational,entertainment,and also some used it for exploring new things.
-So I tried to clone youtube as far as possible.
+YouTube is an American online video sharing and social media platform.People can view different topic related videos like educational,entertainment,etc.
 
 
  🚀 The link for the same is here : https://youtubeclonedapp.netlify.app/
